@@ -1,2 +1,1 @@
-# new-repository
-About up comming project
+Merging into the master branch
